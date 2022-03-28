@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VanHoang0802, newbie
+- 👋 Hi, I’m VanHoang0802, newbie
 - 👀 I’m learning in C/C++ and and soon I'll update Java or C# more.
 - 📫 How to reach me https://www.facebook.com/vanhoang0802
 - Thank you for visiting my git. 
